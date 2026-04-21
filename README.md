@@ -13,7 +13,7 @@ Sorting Algorithms Efficiency Analysis :
 
   ![Random Arrays Comparison](result1.png)
 
-  Merge Sort demonstrated superior performance (significantly lower running time) due to its $O(n \log n)$ complexity, while Bubble Sort and Insertion Sort exhibited quadratic growth ($O(n^2)$). For very small array sizes,     their performance is quitesimilar. However, Insertion Sort is faster than Bubble Sort because it has a lower constant factor; while Bubble Sort requires multiple 'swaps' (each involving three assignments),                    Insertion Sort uses a more efficient 'shifting' mechanism that requires only a single assignment per move .  
+  Merge Sort demonstrated superior performance (significantly lower running time) due to its $O(n \log n)$ complexity, while Bubble Sort and Insertion Sort exhibited quadratic growth ($O(n^2)$). For very small array sizes,     their performance is quite similar. However, Insertion Sort is faster than Bubble Sort because it has a lower constant factor; while Bubble Sort requires multiple 'swaps' (each involving three assignments),                   Insertion Sort uses a more efficient 'shifting' mechanism that requires only a single assignment per move .  
 
 
 
